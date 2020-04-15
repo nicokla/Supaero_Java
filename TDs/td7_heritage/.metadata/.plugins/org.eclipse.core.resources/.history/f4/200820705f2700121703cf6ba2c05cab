@@ -1,0 +1,15 @@
+package fr.supaero.banque;
+
+public class CompteCourant extends CompteSimpleTest{
+	
+	public CompteCourant(Personne p) {
+		
+	}
+	
+	public EditerRelever(){
+		
+		
+	}
+	
+	
+}
